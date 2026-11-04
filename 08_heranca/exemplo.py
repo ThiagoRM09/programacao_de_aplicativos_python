@@ -26,7 +26,7 @@ print(ana.salario)
 ana.dar_aumento(10)
 ana.apresentar()
 
-# Herança
+# 2. Herança
 print("\n--- Herança ---\n")
 
 class Gerente(Funcionario):
